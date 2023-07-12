@@ -1,0 +1,147 @@
+CRLF
+0 HOPOPT, IPv6 Hop-by-Hop Option.CRLF
+1 ICMP, Internet Control Message Protocol.CRLF
+2 IGAP, IGMP for user Authentication Protocol. IGMP, Internet Group Management Protocol. RGMP, Router-port Group Management Protocol.CRLF
+3 GGP, Gateway to Gateway Protocol.CRLF
+4 IP in IP encapsulation.CRLF
+5 ST, Internet Stream Protocol.CRLF
+6 TCP, Transmission Control Protocol.CRLF
+7 UCL, CBT.CRLF
+8 EGP, Exterior Gateway Protocol.CRLF
+9 IGRP, Interior Gateway Routing Protocol.CRLF
+10 BBN RCC Monitoring.CRLF
+11 NVP, Network Voice Protocol.CRLF
+12 PUP.CRLF
+13 ARGUS.CRLF
+14 EMCON, Emission Control Protocol.CRLF
+15 XNET, Cross Net Debugger.CRLF
+16 Chaos.CRLF
+17 UDP, User Datagram Protocol.CRLF
+18 TMux, Transport Multiplexing Protocol.CRLF
+19 DCN Measurement Subsystems.CRLF
+20 HMP, Host Monitoring Protocol.CRLF
+21 Packet Radio Measurement.CRLF
+22 XEROX NS IDP.CRLF
+23 Trunk-1.CRLF
+24 Trunk-2.CRLF
+25 Leaf-1.CRLF
+26 Leaf-2.CRLF
+27 RDP, Reliable Data Protocol.CRLF
+28 IRTP, Internet Reliable Transaction Protocol.CRLF
+29 ISO Transport Protocol Class 4.CRLF
+30 NETBLT, Network Block Transfer.CRLF
+31 MFE Network Services Protocol.CRLF
+32 MERIT Internodal Protocol.CRLF
+33 DCCP, Datagram Congestion Control Protocol.CRLF
+34 Third Party Connect Protocol.CRLF
+35 IDPR, Inter-Domain Policy Routing Protocol.CRLF
+36 XTP, Xpress Transfer Protocol.CRLF
+37 Datagram Delivery Protocol.CRLF
+38 IDPR, Control Message Transport Protocol.CRLF
+39 TP++ Transport Protocol.CRLF
+40 IL Transport Protocol.CRLF
+41 IPv6 over IPv4.CRLF
+42 SDRP, Source Demand Routing Protocol.CRLF
+43 IPv6 Routing header.CRLF
+44 IPv6 Fragment header.CRLF
+45 IDRP, Inter-Domain Routing Protocol.CRLF
+46 RSVP, Reservation Protocol.CRLF
+47 GRE, General Routing Encapsulation.CRLF
+48 DSR, Dynamic Source Routing Protocol.CRLF
+49 BNA.CRLF
+50 ESP, Encapsulating Security Payload.CRLF
+51 AH, Authentication Header.CRLF
+52 I-NLSP, Integrated Net Layer Security TUBA.CRLF
+53 SWIPE, IP with Encryption.CRLF
+54 NARP, NBMA Address Resolution Protocol.CRLF
+55 Minimal Encapsulation Protocol.CRLF
+56 TLSP, Transport Layer Security Protocol using Kryptonet key management.CRLF
+57 SKIP.CRLF
+58 ICMPv6, Internet Control Message Protocol for IPv6. MLD, Multicast Listener Discovery.CRLF
+59 IPv6 No Next Header.CRLF
+60 IPv6 Destination Options.CRLF
+61 Any host internal protocol.CRLF
+62 CFTP.CRLF
+63 Any local network.CRLF
+64 SATNET and Backroom EXPAK.CRLF
+65 Kryptolan.CRLF
+66 MIT Remote Virtual Disk Protocol.CRLF
+67 Internet Pluribus Packet Core.CRLF
+68 Any distributed file system.CRLF
+69 SATNET Monitoring.CRLF
+70 VISA Protocol.CRLF
+71 Internet Packet Core Utility.CRLF
+72 Computer Protocol Network Executive.CRLF
+73 Computer Protocol Heart Beat.CRLF
+74 Wang Span Network.CRLF
+75 Packet Video Protocol.CRLF
+76 Backroom SATNET Monitoring.CRLF
+77 SUN ND PROTOCOL-Temporary.CRLF
+78 WIDEBAND Monitoring.CRLF
+79 WIDEBAND EXPAK.CRLF
+80 ISO-IP.CRLF
+81 VMTP, Versatile Message Transaction Protocol.CRLF
+82 SECURE-VMTP.CRLF
+83 VINES.CRLF
+84 TTP.CRLF
+85 NSFNET-IGP.CRLF
+86 Dissimilar Gateway Protocol.CRLF
+87 TCF.CRLF
+88 EIGRP.CRLF
+89 OSPF, Open Shortest Path First Routing Protocol. MOSPF, Multicast Open Shortest Path First.CRLF
+90 Sprite RPC Protocol.CRLF
+91 Locus Address Resolution Protocol.CRLF
+92 MTP, Multicast Transport Protocol.CRLF
+93 AX.25.CRLF
+94 IP-within-IP Encapsulation Protocol.CRLF
+95 Mobile Internetworking Control Protocol.CRLF
+96 Semaphore Communications Sec. Pro.CRLF
+97 EtherIP.CRLF
+98 Encapsulation Header.CRLF
+99 Any private encryption scheme.CRLF
+100 GMTP.CRLF
+101 IFMP, Ipsilon Flow Management Protocol.CRLF
+102 PNNI over IP.CRLF
+103 PIM, Protocol Independent Multicast.CRLF
+104 ARIS.CRLF
+105 SCPS.CRLF
+106 QNX.CRLF
+107 Active Networks.CRLF
+108 IPPCP, IP Payload Compression Protocol.CRLF
+109 SNP, Sitara Networks Protocol.CRLF
+110 Compaq Peer Protocol.CRLF
+111 IPX in IP.CRLF
+112 VRRP, Virtual Router Redundancy Protocol.CRLF
+113 PGM, Pragmatic General Multicast.CRLF
+114 any 0-hop protocol.CRLF
+115 L2TP, Level 2 Tunneling Protocol.CRLF
+116 DDX, D-II Data Exchange.CRLF
+117 IATP, Interactive Agent Transfer Protocol.CRLF
+118 ST, Schedule Transfer.CRLF
+119 SRP, SpectraLink Radio Protocol.CRLF
+120 UTI.CRLF
+121 SMP, Simple Message Protocol.CRLF
+122 SM.CRLF
+123 PTP, Performance Transparency Protocol.CRLF
+124 ISIS over IPv4.CRLF
+125 FIRE.CRLF
+126 CRTP, Combat Radio Transport Protocol.CRLF
+127 CRUDP, Combat Radio User Datagram.CRLF
+128 SSCOPMCE.CRLF
+129 IPLT.CRLF
+130 SPS, Secure Packet Shield.CRLF
+131 PIPE, Private IP Encapsulation within IP.CRLF
+132 SCTP, Stream Control Transmission Protocol.CRLF
+133 Fibre Channel.CRLF
+134 RSVP-E2E-IGNORE.CRLF
+135 Mobility Header.CRLF
+136 UDP-Lite, Lightweight User Datagram Protocol.CRLF
+137 MPLS in IP.CRLF
+138 MANET protocols.CRLF
+139 HIP, Host Identity Protocol.CRLF
+140 Shim6, Level 3 Multihoming Shim Protocol for IPv6.CRLF
+141 WESP, Wrapped Encapsulating Security Payload.CRLF
+142 ROHC, RObust Header Compression.CRLF
+253 CRLF
+254 Experimentation and testing.CRLF
+255 reserved.CRLF
